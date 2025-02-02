@@ -23,7 +23,7 @@ Before setting up the project, ensure you have the following installed:
    ```
 4. The server will start at `http://localhost:5000`.
 
-You can now use the backend API as described in [Backend Documentation](Backend.md).
+You can now use the backend API as described in [Backend Documentation](/Docs/Backend.md).
 
 ## Android App Setup
 1. Clone the repository:
@@ -41,4 +41,4 @@ You can now use the backend API as described in [Backend Documentation](Backend.
 	        implementation("com.github.GalRadia:InventoryManagement:Tag")
    ```
 2. Sync Gradle and rebuild the project.
-3. Use the library in your Android app as described in [Android Library Documentation](AndroidLibrary.md).
+3. Use the library in your Android app as described in [Android Library Documentation](/Docs/AndroidLibrary.md).

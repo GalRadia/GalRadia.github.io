@@ -8,7 +8,7 @@ The backend is hosted on Vercel.
 
 For every request, the client must include a valid JWT token in the `Authorization` header as `Bearer <TOKEN>`. The token is generated during login and must be refreshed periodically (1 hour).
 ## Setup
-learn how to setup the backend in the [Setup Guide](Setup.md#backend-setup).
+learn how to setup the backend in the [Setup Guide](/Docs/Setup.md#backend-setup).
 ## API Endpoints
 The backend provides the following API endpoints:
 

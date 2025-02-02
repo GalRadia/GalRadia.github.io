@@ -6,7 +6,7 @@ The Inventory Management Library is designed to help manage inventory items, tra
 The library is built using java and communicates with the backend API with Vercel.
 
 ## Setup
-Refer to the [Setup Guide](Setup.md#android-library-setup) for detailed instructions on setting up the project. 
+Refer to the [Setup Guide](/Docs/Setup.md#android-library-setup) for detailed instructions on setting up the project. 
 
 
 ## Installation
