@@ -9,7 +9,7 @@ The Inventory Management system consists of three main components:
 This documentation is divided into multiple files:
 1. [Backend Documentation](/Docs/Backend.md)
 3. [Android Library Documentation](/Docs/AndroidLibrary.md)
-5. [Setup Guide](/Docs/Setup.md))
+5. [Setup Guide](/Docs/Setup.md)
 
 Each file provides detailed information on setup, usage, and functionality.
 

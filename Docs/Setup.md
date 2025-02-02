@@ -22,8 +22,9 @@ Before setting up the project, ensure you have the following installed:
    python app.py
    ```
 4. The server will start at `http://localhost:5000`.
+Or at the Vercel link. https://inventory-management-backend-one-blush.vercel.app/
 
-You can now use the backend API as described in [Backend Documentation](/Docs/Backend.md).
+You can now use the backend API as described in [Backend Documentation](Backend.md).
 
 ## Android App Setup
 1. Clone the repository:
@@ -41,4 +42,4 @@ You can now use the backend API as described in [Backend Documentation](/Docs/Ba
 	        implementation("com.github.GalRadia:InventoryManagement:Tag")
    ```
 2. Sync Gradle and rebuild the project.
-3. Use the library in your Android app as described in [Android Library Documentation](/Docs/AndroidLibrary.md).
+3. Use the library in your Android app as described in [Android Library Documentation](AndroidLibrary.md).
