@@ -213,3 +213,12 @@ inventoryManagement.getAllItemsAsLiveData().observe(this, items -> {
 
 - **MPAndroidChart** for generating bar charts.
 - **Retrofit** for making API calls.
+
+<img src="https://github.com/user-attachments/assets/3c374fb7-f350-466e-ba40-9317bad37221" width="500">
+
+<img src="https://github.com/user-attachments/assets/27b951b4-e61f-4a42-8aae-fafe3bd21b38" width="500">
+
+<img src="https://github.com/user-attachments/assets/4a3d35da-0f80-4ec0-bd58-a875273f6af2" width="500">
+
+<img src="https://github.com/user-attachments/assets/c5a369f1-4b0c-465c-8c44-ad6168bd8586" width="500">
+
